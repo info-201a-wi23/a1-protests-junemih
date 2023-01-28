@@ -56,15 +56,19 @@ I think that the mean is higher than the median because of the amount of NA entr
 - Reflection 2: Before actually calculating the number of protests that occurred in 2018, 2019, 2020, record your guesses for the following questions. (1 point)
 
   Guess: Do you think there were more protests in 2019 than in 2018? Why or why not? Please answer in 1 or 2 sentences
+
 I think there may have been about an equal amount between the two years, because it is hard to think of major political events that happened at the time.
 
   Guess: Do you think there were more protests in 2020 than in 2019? Why or why not? Please answer in 1 or 2 sentences
+
 I think that there were more protests in 2020 compared to 2019 because there was a lot of political unrest at the time regarding Black Lives Matter and Trump.
 
 - Reflection 3: Does the change in the number of protests from 2018 to 2019 to 2020 surprise you? Why or why not? What do you think explains the fluctuation? Please answer in 1 or 2 sentences (2 points)
+
 I was not really surprised by the change in tne number of protests between the years because it seems to reflect the political climate at the time.
 
 - Reflection 4: What is the first and fourth most frequent category of protest? Do these frequencies align with your sense of the major protest movements in the U.S. in the last few years? Why or why not? (3 points)
+
 The first and fourth most frequent categories of protest are Racial Injustice and Immigration. This makes sense because immigration reform and systemic racism have been extremely heavily talked about in the past few years.
 
 ## After You Code: Critical Analysis & Reflection
